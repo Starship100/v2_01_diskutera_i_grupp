@@ -38,3 +38,5 @@ if price >= level2:
 
 final_price = int(price * (100 - discount) / 100)
 print("Efter rabatter blir priset.... " + str(final_price) + "kr")
+
+# sdf
