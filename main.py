@@ -1,4 +1,3 @@
-from typing import final
 """""
 is_member = False
 level1 = 100
