@@ -37,7 +37,7 @@ if is_member == "y":
         discount = discount + 10
         final_price = int(price * (100 - discount) / 100)
         print("Efter rabatter blir priset.... " + str(final_price) + "kr")
-    elif price < level1:
+    elif price < level1:                                                    # Leker med if satser i if satser
         price = int(price)
         if price == 1:
             print("Priset blir", price, "krona.")
