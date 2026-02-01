@@ -44,8 +44,6 @@ if is_member == "y":
         else:
             print("Priset blir", price,"kronor.")
 
-    #final_price = int(price * (100 - discount) / 100)
-    #print("Efter rabatter blir priset.... " + str(final_price) + "kr")
 elif is_member == "n":
     print("No discounts for you!")
 
