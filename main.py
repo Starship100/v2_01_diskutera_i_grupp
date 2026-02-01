@@ -24,7 +24,7 @@ level2 = 300
 discount = 0
 
 if is_member == "y":
-    print("Great! You are aloud to have discounts on your next bye")
+    print("Kul! Du har rätt till rabatter på ditt nästa köp!")
 
     price = float(input("Välkommen, köp något dyrt: "))
     if price >= level2:  # and < level2:
@@ -38,7 +38,11 @@ if is_member == "y":
         final_price = int(price * (100 - discount) / 100)
         print("Efter rabatter blir priset.... " + str(final_price) + "kr")
     elif price < level1:
-        print("Priset blir", price,"kronor")
+        price = int(price)
+        if price == 1:
+            print("Priset blir", price, "krona.")
+        else:
+            print("Priset blir", price,"kronor.")
 
     #final_price = int(price * (100 - discount) / 100)
     #print("Efter rabatter blir priset.... " + str(final_price) + "kr")
