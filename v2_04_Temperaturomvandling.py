@@ -1,5 +1,4 @@
 
-
 # C till Farenheit = 1.8 * celsius + 32
 # F till Celsius = (F - 32) / 1.8
 
