@@ -1,6 +1,4 @@
 
-
-
 print("Match: Tottenham vs Liverpool")
 tottenham_goals = int(input("Hur många mål gjorde Tottenham? "))
 liverpool_goals = int(input("Hur många mål gjorde Liverpool? "))
