@@ -1,11 +1,8 @@
 
-# Version 1
-#celsius = float(input("Ange en temperatur i grader celsius: "))
-#farenheit = 1.8 * celsius + 32
-#print("Det blir ", farenheit , "grader i farenheit.")
 
+# C till Farenheit = 1.8 * celsius + 32
+# F till Celsius = (F - 32) / 1.8
 
-# Version 2
 val = input("Ange temperatur i Fahranheit(f) eller Celsius(c): ")
 if val == "c" or val == "f":
     celsius = float(input("Skriv in temperatur i grader Celsius: "))

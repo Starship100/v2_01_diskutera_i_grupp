@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2395f398-a1a1-4426-ba3c-172e24f8a56e" name="Changes" comment="Miniräknare">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2_04_Temperaturomvandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2_04_Temperaturomvandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2_05_Miniräknare.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2_05_Miniräknare.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
         <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
@@ -89,7 +90,7 @@
       <workItem from="1770144262598" duration="3000" />
       <workItem from="1770144298876" duration="6000" />
       <workItem from="1770144405958" duration="999000" />
-      <workItem from="1770145425362" duration="399000" />
+      <workItem from="1770145425362" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="cloned">
       <option name="closed" value="true" />
@@ -179,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770143172290</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Miniräknare">
+      <option name="closed" value="true" />
+      <created>1770145847413</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770145847414</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
